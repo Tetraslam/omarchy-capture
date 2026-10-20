@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "tetraslam.capture",
+  "name": "Capture",
+  "version": "0.1.0",
+  "author": "Shresht Bhowmick",
+  "license": "MIT",
+  "description": "Quick capture: one key, type a thought, Enter, and it's at the top of a note in your Obsidian vault. Tab picks the note.",
+  "kinds": ["overlay"],
+  "keepLoaded": true,
+  "entryPoints": { "overlay": "Capture.qml" }
+}
